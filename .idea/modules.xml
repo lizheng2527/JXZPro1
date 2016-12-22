@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JXZPro.iml" filepath="$PROJECT_DIR$/JXZPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datetimepicker/datetimepicker.iml" filepath="$PROJECT_DIR$/datetimepicker/datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxz/jxz.iml" filepath="$PROJECT_DIR$/jxz/jxz.iml" />
+    </modules>
+  </component>
+</project>
