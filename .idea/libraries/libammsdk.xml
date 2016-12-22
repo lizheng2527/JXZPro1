@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="libammsdk">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/androidBase/libs/libammsdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jxz/libs/libammsdk.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="PlayerSDK">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/androidBase/libs/PlayerSDK.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jxz/libs/PlayerSDK.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

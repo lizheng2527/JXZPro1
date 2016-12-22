@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="httpmime-4.2.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/androidBase/libs/httpmime-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jxz/libs/httpmime-4.2.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

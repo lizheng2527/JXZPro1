@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="AudioEngineSDK">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/androidBase/libs/AudioEngineSDK.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jxz/libs/AudioEngineSDK.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

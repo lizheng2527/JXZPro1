@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="alipaySingle-20160428">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/androidBase/libs/alipaySingle-20160428.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jxz/libs/alipaySingle-20160428.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
